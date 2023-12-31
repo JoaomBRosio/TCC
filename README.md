@@ -5,7 +5,7 @@ Antes, todo o trabalho da ONG era feito em papel, e com o WebApp, a facilidade e
 tendo em vista que o sistema pode ser acessado de qualquer lugar por se tratar de um WebApp
 
 ## Tecnologias mais exploradas no projeto:
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaomBRosio/TCC&layout=donut" alt="Top Langs">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaomBRosio/TCC&layout=donut" alt="Top Langs">
 
 
 Instruões para uso: 
