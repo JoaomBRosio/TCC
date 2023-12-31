@@ -4,9 +4,6 @@ cadastro de adotantes bloqueados, cadastro de equipes para os eventos e o gerenc
 Antes, todo o trabalho da ONG era feito em papel, e com o WebApp, a facilidade engajada nos métodos da ONG os ajuda de forma significativa, 
 tendo em vista que o sistema pode ser acessado de qualquer lugar por se tratar de um WebApp
 
-## Tecnologias mais exploradas no projeto:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaomBRosio/TCC&layout=donut" alt="Top Langs">
-
 
 Instruões para uso: 
 1- Ative o XAMPP (Apache e MySql); 
